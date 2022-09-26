@@ -1,4 +1,4 @@
-
+#transform into one row csv file
 from xml.etree import ElementTree
 import csv
 
