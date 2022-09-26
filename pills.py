@@ -1,8 +1,6 @@
 from xml.etree import ElementTree
 import json
 import ndjson
-#skipparw xml to json kai paw kateutheian se xml to ndjson
-
 
 nd_data = open("data_correct.ndjson", 'w')
 
