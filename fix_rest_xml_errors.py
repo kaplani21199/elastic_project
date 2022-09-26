@@ -1,3 +1,4 @@
+#corrects non-printable characters 
 import io 
 import glob
 import xml.etree.ElementTree as ET
